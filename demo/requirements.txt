@@ -1,5 +1,5 @@
 gradio==4.36.1
-numpy
+numpy==1.24.0
 tokenizers>=0.12.1
 torch==2.0.1
 torchvision==0.15.2
@@ -8,7 +8,7 @@ peft==0.4.0
 transformers==4.31.0
 accelerate==0.21.0
 bitsandbytes==0.41.0
-scikit-learn==1.2.2
+scikit-learn==1.5.2
 sentencepiece==0.1.99
 einops==0.6.1
 einops-exts==0.0.4
